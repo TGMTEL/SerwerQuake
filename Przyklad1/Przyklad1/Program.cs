@@ -11,7 +11,7 @@ namespace Przyklad1
         static void Main(string[] args)
         {
 
-            //Kuciap to pedał
+            //Kuciap to pedaaaał
         }
     }
 }
